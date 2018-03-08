@@ -5,12 +5,4 @@
 
 export const environment = {
   production: false
-  /*firebase: {
-    apiKey: 'AIzaSyCy9HuK8-DkBdZWiJrwPSCscOoWJmBqLQ8',
-    authDomain: 'logindemo-23f28.firebaseapp.com',
-    databaseURL: 'https://logindemo-23f28.firebaseio.com',
-    projectId: 'logindemo-23f28',
-    storageBucket: 'logindemo-23f28.appspot.com',
-    messagingSenderId: '70784148192'
-  }*/
 };
